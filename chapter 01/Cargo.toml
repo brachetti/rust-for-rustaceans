@@ -1,0 +1,4 @@
+[package]
+name = "chapter_01"
+path = "src/main.rs"
+version = "0.0.1"
